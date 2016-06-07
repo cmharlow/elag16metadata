@@ -205,7 +205,7 @@ def main():
                 if r.get_xpath() is not None:
                     for i in r.get_xpath():
                         if args.id:
-                            print("\t".join([record_id, i]))
+                            print("\t".join([record_id, str(i)]))
                         else:
                             print(i)
 

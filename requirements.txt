@@ -1,4 +1,7 @@
 isodate==0.5.4
+lxml==3.6.0
+objectpath==0.5
 pyparsing==2.1.4
+pytz==2016.4
 rdflib==4.2.1
 requests==2.10.0
