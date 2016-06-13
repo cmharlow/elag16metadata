@@ -16,6 +16,10 @@
 
 ##Slides
 
+Psst...Download PDFs (instead of just viewing in GitHub) to have actionable links work.
+
 [Day 1 slides with speakers’ notes (PDF is most up-to-date)](https://docs.google.com/document/d/1s6o3T3djKcv_mWhO-1XOSMg7rNWmp0xACkF-RCk0CPA/edit?usp=sharing)
 
 [Day 1 slides only as PDF](https://github.com/cmh2166/elag16metadata/blob/slides/Day1/day1slides.pdf)
+
+[Day 2 slides as PDF](https://github.com/cmh2166/elag16metadata/blob/slides/Day2/day2slides.pdf)
